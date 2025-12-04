@@ -36,3 +36,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 *   Sonrasında tarayıcınızdan http://127.0.0.1:5000 adresine giderek projeyi kullanmaya başlayabilirsiniz.
 
 ## 📸 Projeden Ekran Görüntüleri
+
+Giriş Sayfası
+
+<img width="1835" height="936" alt="image" src="https://github.com/user-attachments/assets/6858548d-7e62-40b1-8cce-bcd9da13b318" />
+
